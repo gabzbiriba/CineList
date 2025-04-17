@@ -4,6 +4,7 @@ Aluno = Gabrielle Arruda Rodrigues
 
 Matricula = 2312130129
 
+
 CineList é uma aplicação web simples de cadastro de filmes onde o(a) usuário(a) pode:
 
 - Criar uma conta
