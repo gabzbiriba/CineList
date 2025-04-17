@@ -25,12 +25,6 @@ Desenvolvido com HTML, CSS e JavaScript puro, sem bibliotecas externas. Ideal pa
 
 ---
 
-## 📸 Layout
-
-![CineList Screenshot](./imagens/screenshot.png) <!-- Adicione uma captura de tela se quiser -->
-
----
-
 ## 🛠️ Tecnologias
 
 - HTML5
