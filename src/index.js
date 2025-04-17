@@ -299,7 +299,7 @@ function PageCadastroFilmes() {
 }
 
 function PageFavoritos() {
-    const titulo = Titulo("Filmes Favoritos");
+    const titulo = Titulo("☆ Filmes Favoritos");
     const listagemContainer = document.createElement("div");
     listagemContainer.setAttribute("id", "listagem-container");
 
